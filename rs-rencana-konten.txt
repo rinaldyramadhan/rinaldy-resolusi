@@ -2,7 +2,9 @@ Rencana Konten Rinaldy Studios
 - Learn JS
  * Function JS
  * Framework JS
-   ^ Vue.js
+  ^ React.js
+  ^ Angular.js
+  ^ Vue.js
 - Learn Ajax
 - Learn PHP Framework
  * Laravel
