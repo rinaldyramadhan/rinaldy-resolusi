@@ -1,0 +1,4 @@
+Rencana Konten Rinaldy Studios
+- Learn JS
+- Learn Ajax
+- Make a Platform
