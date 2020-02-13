@@ -1,5 +1,6 @@
 Rencana Konten Rinaldy Studios
 - Learn JS
  * Function JS
+ * Framework JS
 - Learn Ajax
 - Make a Platform
