@@ -4,5 +4,8 @@ Rencana Konten Rinaldy Studios
  * Framework JS
   ^ React.js
   ^ Angular.js
+  ^ Vue.js
 - Learn Ajax
+- Learn PHP Framework
+ * Laravel
 - Make a Platform
